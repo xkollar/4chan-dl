@@ -1,6 +1,8 @@
 4chan-dl
 ========
 
+[![MIT License](https://img.shields.io/github/license/xkollar/4chan-dl.svg)][tl;dr Legal: MIT]
+
 Simple tool for downloading whole threads from [4chan](https://www.4chan.org/).
 
 Usage
@@ -23,3 +25,13 @@ Hacking
 -------
 
 Patches/pull-requests are welcome `:-)`.
+
+License
+-------
+
+The MIT License, see [LICENSE.txt](LICENSE.txt) file for details.
+
+
+[tl;dr Legal: MIT]:
+  https://tldrlegal.com/license/mit-license
+  "MIT License"
